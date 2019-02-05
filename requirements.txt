@@ -1,0 +1,5 @@
+robotframework >= 2.9
+
+RESTinstance == 1.0.0rc4
+robotframework-requests == 0.4.7
+pyjwt == 1.7.1
